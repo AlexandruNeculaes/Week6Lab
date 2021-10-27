@@ -1,0 +1,21 @@
+body{
+	font-size: 120%;
+	background-color: aqua;
+	text-align: center;
+}
+p{
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+.header{
+	font-family: Georgia;
+	color:black;
+}
+.bold{
+	font-weight:bold;
+}
+.row{
+	margin-top:100px;
+	justify-content:space-between;
+}
+
